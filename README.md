@@ -92,7 +92,7 @@ suggestion, selection, classification, communication and others.
 Developers within the community can have access to various virtual machines in the runtime that allows the development and deployment
 of solutions in the various industries and the right tools below:
 
-Analytics
+      Analytics
 
 Application Integration
 
