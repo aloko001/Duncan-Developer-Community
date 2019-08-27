@@ -13,7 +13,7 @@ speech communication, analytic computing, model training, algorithm compute, sel
 more. The program will actively learn outside its pre-trained algorithm and set api, taking trainings from users during user-machine 
 interactions in terms of making suggestions through active communications (speech or embedded text) in all the runtime.  
 
-Forums
+# Forums
 
 The forums will be the social collaboration platform on the community that connects developers with each other, by taking in developers 
 profile, profiling them based on a trained api and attaching them with other developers based on their profile for better collaboration.
@@ -33,7 +33,7 @@ the gig are random jobs specification posted by clients for a service to be rend
 Other gigs hosted within the system are remote jobs from organizations. All contributions (questions, answers, feedback and collaborations)
 within the forum are hosted on a database that re-evaluates itself every 12hours by filtering spam and not-spam contributions.
 
-Project Runtime 
+# Project Runtime 
 
 The runtime will be developed to allow developers build, train, host, collaborate and deploy projects with their team from the various 
 virtual machines, Integrated Development Learning Environment IDLE and engines on the cloud. It supports team creation with a modal 
@@ -75,7 +75,7 @@ wordpress development, software development (andriod, windows, linux, ios), data
 secured collaborations of host and guest teams.
 
 
-Virtual Learn
+# Virtual Learn
 
 The learn environment will be hosted on the community to activate virtual learning for non-developers and developers expanding their
 knowledge in the field of technology. It will contain virtual frameworks of various programming languages integrated from the backend 
