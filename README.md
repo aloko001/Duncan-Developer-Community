@@ -56,8 +56,7 @@ no restrictions. Comments and documentations from the community forum will be re
 The hosted CPU or GPU engine on the cloud allows for easy training, building and deployment of project. Models available on the runtime 
 can be initialized by teams in building projects, domain name for websites can be bought, wordpress account can be initialized with 
 runtime for coding process, other languages IDLE can be initialized in the virtual machine for coding, teams can link up other 
-community accounts and with their runtime for code execution. Developers will have access to sharing live code in the terminal 
-using the THROW and EXCHANGE api and can switch IDLE comfortably.
+community accounts and with their runtime for code execution. Developers will have access to sharing live code in the terminal using the THROW and EXCHANGE api and can switch IDLE comfortably.
 Various AI Toolkit and IDLE for the different engines will be installed on the virtual machines, allowing developers to access them 
 by creating instances which in turns launch the virtual machines from the CPU or GPU processor integrated into the cloud runtime. Each 
 virtual machine launched will be hosted on the local server with an open-end and closed-end channel rerouted from the backend development.
@@ -92,45 +91,45 @@ suggestion, selection, classification, communication and others.
 Developers within the community can have access to various virtual machines in the runtime that allows the development and deployment
 of solutions in the various industries and the right tools below:
 
-    Analytics
+Analytics
 
-    Application Integration
+Application Integration
 
-    AI Toolkit
+AI Toolkit
 
-    Business Applications
+Business Applications
 
-    Customer Interactions
+Customer Interactions
 
-    Connections
+Connections
 
-    Database
+Database
 
-    Data Minning
+Data Minning
 
-    Engines
+Engines
 
-    GameTech
+GameTech
 
-    Garage
+Garage
 
-    Machine Learning
+Machine Learning
 
-    Migration & Switch
+Migration & Switch
 
-    Mobile
+Mobile
 
-    Networking & Collaborations
+Networking & Collaborations
 
-    OpenSource Library
+OpenSource Library
 
-    Security & Access
+Security & Access
 
-    Storage
+Storage
 
-    Virtual Learn
+Virtual Learn
 
-    Web Industry
+Web Industry
 
 Programming languages, api, engines and other resources needed for the community backend and frontend development in terms of 
 collaborations are highlighted below:
