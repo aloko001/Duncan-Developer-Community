@@ -1,7 +1,6 @@
-# duncan_developer_community
-AI interactive community 
+# Duncan Developer Community
 
-What is this Repo?
+# What is this Repo?
 
 The Developer community under the MIT license will be an open source developer community that allows the sharing and networking 
 of developers within its network, allows developers have access to materials, models and algorithm within the cloud, allow training, 
