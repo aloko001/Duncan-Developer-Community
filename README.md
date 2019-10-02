@@ -91,49 +91,32 @@ suggestion, selection, classification, communication and others.
 Developers within the community can have access to various virtual machines in the runtime that allows the development and deployment
 of solutions in the various industries and the right tools below:
 
-Analytics
+- Analytics
+- Application Integration
+- AI Toolkit
+- Business Applications
+- Customer Interactions
+- Connections
+- Database
+- Data Minning
+- Engines
+- GameTech
+- Garage
+- Machine Learning
+- Migration & Switch
+- Mobile
+- Networking & Collaborations
+- OpenSource Library
+- Security & Access
+- Storage
+- Virtual Learn
+- Web Industry
 
-Application Integration
-
-AI Toolkit
-
-Business Applications
-
-Customer Interactions
-
-Connections
-
-Database
-
-Data Minning
-
-Engines
-
-GameTech
-
-Garage
-
-Machine Learning
-
-Migration & Switch
-
-Mobile
-
-Networking & Collaborations
-
-OpenSource Library
-
-Security & Access
-
-Storage
-
-Virtual Learn
-
-Web Industry
-
-Programming languages, api, engines and other resources needed for the community backend and frontend development in terms of 
+<strong>Programming languages</strong>
+api, engines and other resources needed for the community backend and frontend development in terms of 
 collaborations are highlighted below:
 
+``
 UI/UX, 
 Javascript, 
 PHP, 
